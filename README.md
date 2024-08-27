@@ -23,3 +23,4 @@
                                                                                                                                                                                         libssl.so.1.0.0 => not found
                                                                                                                                                                                                 libcrypto.so.1.0.0 => not found
                                                                                                                                                                                                 
+![example workflow](https://github.com/nx-appbuild-hub/Ocenaudio.AppImage//actions/workflows/makefile.yml/badge.svg)
